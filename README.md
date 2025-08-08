@@ -1,10 +1,13 @@
 1.. Understand the Usecase & Get the Data
+
 2.. Data preprocessing (Run ETL pipeline)
     Extract the raw Data
     Check whether data-types are correct or not 
     check whether Data have missing value or not 
     check whether data have duplicate entries or not !
+    
 3.. Data Analysis or EDA
+
 <img width="1783" height="512" alt="Open High Values" src="https://github.com/user-attachments/assets/c791c177-7ec3-4f9b-8a3c-61c22b70734a" />
 <img width="1797" height="523" alt="Low Close Values" src="https://github.com/user-attachments/assets/4f9b9745-abbd-4467-ae99-ad7b631e2e0f" />
 
